@@ -1,4 +1,4 @@
-# 🏥 MOH Bed Readiness Dashboard
+# 🏥 MOH ER Bed Readiness Dashboard
 
 This project is an **Interactive Data Dashboard** for MOH hospital ER bed monitoring in Saudi Arabia.  
 It visualizes the monitoring readiness of hospital beds through different health regions using data science and Streamlit.
